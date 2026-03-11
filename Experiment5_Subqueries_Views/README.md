@@ -37,124 +37,103 @@ DROP VIEW view_name;
 ```
 
 **Question 1**
---
--- Paste Question 1 here
 
-```sql
--- Paste your SQL code below for Question 1
-```
+<img width="1012" height="730" alt="image" src="https://github.com/user-attachments/assets/7fc3b3f7-5348-47e5-bc75-431ccd68d518" />
+
 
 **Output:**
 
-![Output1](output.png)
+<img width="1276" height="915" alt="image" src="https://github.com/user-attachments/assets/215c4e00-08e3-4350-bb4c-8b9ff76c73fe" />
+
 
 **Question 2**
----
--- Paste Question 2 here
 
-```sql
--- Paste your SQL code below for Question 2
-```
+<img width="1087" height="540" alt="image" src="https://github.com/user-attachments/assets/acb5fc9c-a336-49d8-9d33-6d0ae4e0a7b7" />
+
 
 **Output:**
 
-![Output2](output.png)
+<img width="605" height="1009" alt="image" src="https://github.com/user-attachments/assets/64539d1c-a9c2-4410-80dc-8b971a16ddc1" />
+
 
 **Question 3**
----
--- Paste Question 3 here
 
-```sql
--- Paste your SQL code below for Question 3
-```
+<img width="951" height="734" alt="image" src="https://github.com/user-attachments/assets/4a97cd70-62fd-4584-a643-1fa7bad0c9f2" />
+
 
 **Output:**
 
-![Output3](output.png)
+<img width="1116" height="951" alt="image" src="https://github.com/user-attachments/assets/050ecfa7-5720-4eec-998e-7346692a96fb" />
+
 
 **Question 4**
----
--- Paste Question 4 here
 
-```sql
--- Paste your SQL code below for Question 4
-```
+<img width="1196" height="733" alt="image" src="https://github.com/user-attachments/assets/00e1dc70-638b-4a77-a855-bd9af050b8eb" />
 
 **Output:**
 
-![Output4](output.png)
+<img width="1259" height="979" alt="image" src="https://github.com/user-attachments/assets/e264561f-4cdd-4415-8b55-b6f9e0932f56" />
+
 
 **Question 5**
----
--- Paste Question 5 here
 
-```sql
--- Paste your SQL code below for Question 5
-```
+<img width="1202" height="803" alt="image" src="https://github.com/user-attachments/assets/59255d15-e7c9-47d6-9243-497311dd1aa4" />
+
 
 **Output:**
 
-![Output5](output.png)
+<img width="1269" height="1008" alt="image" src="https://github.com/user-attachments/assets/401eb96f-48ed-4702-9187-8187d13ccf1b" />
+
 
 **Question 6**
----
--- Paste Question 6 here
 
-```sql
--- Paste your SQL code below for Question 6
-```
+<img width="1179" height="790" alt="image" src="https://github.com/user-attachments/assets/861ccca8-ad3f-4793-873e-2a7bf606d73c" />
+
 
 **Output:**
 
-![Output6](output.png)
+<img width="1166" height="936" alt="image" src="https://github.com/user-attachments/assets/1a03efd2-a81e-4ec2-9ca5-59d932501ad8" />
+
 
 **Question 7**
----
--- Paste Question 7 here
 
-```sql
--- Paste your SQL code below for Question 7
-```
+<img width="961" height="615" alt="image" src="https://github.com/user-attachments/assets/503b0281-e9c9-48e7-8bd7-6925c877a4f0" />
+
 
 **Output:**
 
-![Output7](output.png)
+<img width="1025" height="790" alt="image" src="https://github.com/user-attachments/assets/e9a81e34-daac-4e49-bb17-fdfff790669d" />
+
 
 **Question 8**
----
--- Paste Question 8 here
 
-```sql
--- Paste your SQL code below for Question 8
-```
+<img width="876" height="593" alt="image" src="https://github.com/user-attachments/assets/c3abab83-2117-4c90-9484-95904f801571" />
+
 
 **Output:**
 
-![Output8](output.png)
+<img width="1133" height="907" alt="image" src="https://github.com/user-attachments/assets/f2673efc-0ed7-47d9-80f8-b86fc45f92f3" />
+
 
 **Question 9**
----
--- Paste Question 9 here
 
-```sql
--- Paste your SQL code below for Question 9
-```
+<img width="953" height="551" alt="image" src="https://github.com/user-attachments/assets/e502ee41-4956-4e03-9c78-82c0ed6d67ea" />
+
 
 **Output:**
 
-![Output9](output.png)
+<img width="1134" height="817" alt="image" src="https://github.com/user-attachments/assets/6a5eb3db-9f95-4d1e-bca9-a56bb6688348" />
+
 
 **Question 10**
----
--- Paste Question 10 here
 
-```sql
--- Paste your SQL code below for Question 10
-```
+<img width="1250" height="555" alt="image" src="https://github.com/user-attachments/assets/a4c55bff-4229-43c9-a378-21e0dfcc83ce" />
+
 
 **Output:**
 
-![Output10](output.png)
+<img width="1140" height="914" alt="image" src="https://github.com/user-attachments/assets/ee509d78-2267-40b5-aae8-12a7bf203afe" />
+
 
 
 ## RESULT
