@@ -76,7 +76,7 @@ END;
 - Use a simple cursor to fetch and display employee names and designations.
 - Implement exception handling to catch the relevant exceptions and display appropriate messages.
 
-### PROGRAM
+#### Program:
 ```
 DECLARE
    CURSOR emp_cur IS
@@ -100,7 +100,8 @@ END;
 **Output:**  
 The program should display the employee details or an error message.
 
-<img width="1012" height="741" alt="444625419-420e25ee-9a22-4def-945e-0494dee9aed2" src="https://github.com/user-attachments/assets/92bc5218-6384-4d77-9419-9b3450fe3204" />
+![image](https://github.com/user-attachments/assets/420e25ee-9a22-4def-945e-0494dee9aed2)
+
 
 ---
 
@@ -118,7 +119,7 @@ The program should display the employee details or an error message.
 - Use a parameterized cursor to accept a salary range as input and fetch employees within that range.
 - Implement exception handling to catch and display relevant error messages.
 
-### PROGRAM
+#### Program:
 ```
 DECLARE
    CURSOR sal_cursor(min_sal NUMBER, max_sal NUMBER) IS
@@ -145,7 +146,8 @@ END;
 **Output:**  
 The program should display the employee details within the specified salary range or an error message if no data is found.
 
-<img width="1004" height="731" alt="444625636-61f49c12-dcc3-4712-a366-e917595623f0" src="https://github.com/user-attachments/assets/b3ddcd9f-2ad8-4e15-9132-528364c99be0" />
+![image](https://github.com/user-attachments/assets/61f49c12-dcc3-4712-a366-e917595623f0)
+
 
 ---
 
@@ -163,8 +165,7 @@ The program should display the employee details within the specified salary rang
 - Use a cursor FOR loop to fetch and display employee names along with their department numbers.
 - Implement exception handling to catch the relevant exceptions.
 
-
-### PROGRAM
+#### Program:
 ```
 DECLARE
    found BOOLEAN := FALSE;
@@ -183,10 +184,12 @@ EXCEPTION
       DBMS_OUTPUT.PUT_LINE('Unexpected error: ' || SQLERRM);
 END;
 ```
+
 **Output:**  
 The program should display employee names with their department numbers or the appropriate error message if no data is found.
 
-<img width="1014" height="733" alt="444625706-a208f8c1-0913-482c-a283-b586626e5140" src="https://github.com/user-attachments/assets/2f21db04-61e5-4554-a2f7-d9f2a91afe7d" />
+![image](https://github.com/user-attachments/assets/a208f8c1-0913-482c-a283-b586626e5140)
+
 
 ---
 
@@ -204,7 +207,7 @@ The program should display employee names with their department numbers or the a
 - Declare a cursor using `%ROWTYPE` to fetch complete rows from the `employees` table.
 - Implement exception handling to catch the relevant exceptions and display appropriate messages.
 
-### PROGRAM
+#### Program:
 ```
 DECLARE
    CURSOR emp_cur IS SELECT * FROM employees;
@@ -234,7 +237,8 @@ END;
 **Output:**  
 The program should display employee records or the appropriate error message if no data is found.
 
-<img width="1000" height="724" alt="444625770-65664ead-e13d-4ad4-a9df-4e2bae9c8012" src="https://github.com/user-attachments/assets/c97628d5-b1bb-453e-a43d-c16b28dec545" />
+![image](https://github.com/user-attachments/assets/65664ead-e13d-4ad4-a9df-4e2bae9c8012)
+
 
 ---
 
@@ -252,7 +256,7 @@ The program should display employee records or the appropriate error message if 
 - Use a cursor with the `FOR UPDATE` clause to lock the rows of employees in a specific department and update their salary.
 - Implement exception handling to handle `NO_DATA_FOUND` or other errors that may occur.
 
-### PROGRAM
+#### Program:
 ```
 DECLARE
    CURSOR emp_cur IS
@@ -275,15 +279,13 @@ EXCEPTION
       DBMS_OUTPUT.PUT_LINE('Error during update: ' || SQLERRM);
 END;
 ```
+
 **Output:**  
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
 
-<img width="1008" height="722" alt="444625912-a3e41b43-317a-4ff1-ae8b-85f80a7ff8ad" src="https://github.com/user-attachments/assets/b1653b8b-66a4-4d45-a200-97ed0ed8feee" />
+![image](https://github.com/user-attachments/assets/a3e41b43-317a-4ff1-ae8b-85f80a7ff8ad)
 
----
 
-### RESULT
-Thus, the program successfully executed and displayed employee details using a cursor.
+
 ## RESULT
 Thus, the program successfully executed and displayed employee details using a cursor. 
-
